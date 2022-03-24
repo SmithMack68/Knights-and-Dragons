@@ -1,0 +1,20 @@
+{
+    "pets": [
+        {
+            "id":1,
+            "name": "Kit",
+            "type": "Cat",
+            "image": "img_url",
+            "age": 2,
+            "powers": "Lightening Reflexes"
+        },
+        {
+            "id":2,
+            "name": "Neffi",
+            "type": "Cat",
+            "image":"img_url",
+            "age": 5,
+            "powers": "Hairy Ogre" 
+        }
+    ]
+}
