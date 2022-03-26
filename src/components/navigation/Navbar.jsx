@@ -29,11 +29,11 @@ const Navbar = () => {
           <Container>
             <Toolbar>
                 <Typography variant="h6" className={classes.title}>
-                 <Button color="inherit" style={{ fontSize: 20 }} component={ Link } to="/">Pets</Button>
+                 <Button color="inherit" style={{ fontSize: 20 }} component={ Link } to="/">Home</Button>
                 </Typography>
                 <Button color="inherit" component={ Link } to="/login">Login</Button>
-                <Button color="inherit" component={ Link } to="/petList">Pet List</Button>
-                <Button color="inherit" component={ Link } to="/petCards">Pet Cards</Button>
+                <Button color="inherit" component={ Link } to="/dragonPage">Dragons</Button>
+                <Button color="inherit" component={ Link } to="/knightsPage">Knights</Button>
             </Toolbar>
         </Container>
       </AppBar>

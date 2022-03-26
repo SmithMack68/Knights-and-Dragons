@@ -1,98 +1,101 @@
 {
   
-    "pets": [ 
+    "dragons": [ 
         {
             "id":1,
             "name": "Drogon",
             "type": "Dragon",
-            "image": "images/fireDragon.jpg",
+            "image": "./images/kd/firedragon.jpg",
             "powers": ""
         },
         {
             "id":2,
             "name": "Brenna",
             "type": "Knight & Dragon",
-            "image": "images/LadyandDragon.jpg",
+            "image": "./images/kd/ladyanddragon.jpg",
             "powers": ""
         }, {
             "id":3,
             "name": "Uruloki",
             "type": "Dragon",
-            "image": "images/FlyingBlueDragon.jpg",
+            "image": "./images/kd/flyingbluedragon.jpg",
             "powers": ""
         }, {
             "id":4,
             "name": "Kai",
             "type": "Dragon",
-            "image": "images/babydragon.jpg",
+            "image": "./images/kd/babydragon.jpg",
             "powers": ""
         }, {
             "id":5,
             "name": "Nithe",
             "type": "Dragon",
-            "image": "images/tigerDragon.jpg",
+            "image": "./images/kd/tigerdragon.jpg",
             "powers": ""
         }, {
             "id":6,
             "name": "Hyperion",
             "type": "Dragon",
-            "image": "images/iceDragon.jpg",
+            "image": "./images/kd/icedragon.jpg",
             "powers": ""
         }, {
             "id":7,
             "name": "Pendragon",
             "type": "Knight & Dragon",
-            "image": "images/mountedKnight.jpg",
+            "image": "./images/kd/mountedknight.jpg",
             "powers": ""
         }, {
             "id":8,
             "name": "Jormungand",
             "type": "Dragon",
-            "image": "images/blueheadDragon.jpg",
+            "image": "./images/kd/blueheaddragon.jpg",
             "powers": ""
-        },
+        }
+        
+    ],
+    "knights":[
         {
-            "id":9,
+            "id":1,
             "name": "Niamh",
             "type": "Knight",
-            "image":"images/archer.jpg",
+            "image":"./images/kd/archer.jpg",
             "skills": "Archer" 
         },
         {
-            "id":10,
+            "id":2,
             "name": "Amaruq",
             "type": "Knight",
-            "image":"images/fireKnight.jpg",
+            "image":"./images/kd/fireknight.jpg",
             "skills": "" 
         }, {
-            "id":11,
+            "id":3,
             "name": "King Arthur",
             "type": "Knight",
-            "image":"images/KingArthur.jpg",
+            "image":"./images/kd/kingarthur.jpg",
             "skills": "" 
         }, {
-            "id":12,
+            "id":4,
             "name": "Bakar",
             "type": "Knight",
-            "image":"images/lonelyKnight.jpg",
+            "image":"./images/kd/lonelyknight.jpg",
             "skills": "" 
         }, {
-            "id":13,
+            "id":5,
             "name": "Sir Gawain",
             "type": "Knight",
-            "image":"images/SirGawain.jpg",
+            "image":"./images/kd/sirgawain.jpg",
             "skills": "" 
         }, {
-            "id":14,
+            "id":6,
             "name": "Uthred",
             "type": "Knight",
-            "image":"images/Uthred.jpg",
+            "image":"./images/kd/uthred.jpg",
             "skills": "" 
         }, {
-            "id":15,
+            "id":7,
             "name": "Ragnar",
             "type": "Knight",
-            "image":"images/Viking.jpg",
+            "image":"./images/kd/viking.jpg",
             "skills": "" 
         }
     ]
