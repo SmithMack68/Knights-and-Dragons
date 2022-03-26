@@ -31,6 +31,7 @@ const Navbar = () => {
                 <Typography variant="h6" className={classes.title}>
                  <Button color="inherit" style={{ fontSize: 20 }} component={ Link } to="/">Pets</Button>
                 </Typography>
+                <Button color="inherit" component={ Link } to="/login">Login</Button>
                 <Button color="inherit" component={ Link } to="/petList">Pet List</Button>
                 <Button color="inherit" component={ Link } to="/petCards">Pet Cards</Button>
             </Toolbar>

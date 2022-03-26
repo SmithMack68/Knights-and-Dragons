@@ -1,20 +1,99 @@
 {
-    "pets": [
+  
+    "pets": [ 
         {
             "id":1,
-            "name": "Kit",
-            "type": "Cat",
-            "image": "img_url",
-            "age": 2,
-            "powers": "Lightening Reflexes"
+            "name": "Drogon",
+            "type": "Dragon",
+            "image": "images/fireDragon.jpg",
+            "powers": ""
         },
         {
             "id":2,
-            "name": "Neffi",
-            "type": "Cat",
-            "image":"img_url",
-            "age": 5,
-            "powers": "Hairy Ogre" 
+            "name": "Brenna",
+            "type": "Knight & Dragon",
+            "image": "images/LadyandDragon.jpg",
+            "powers": ""
+        }, {
+            "id":3,
+            "name": "Uruloki",
+            "type": "Dragon",
+            "image": "images/FlyingBlueDragon.jpg",
+            "powers": ""
+        }, {
+            "id":4,
+            "name": "Kai",
+            "type": "Dragon",
+            "image": "images/babydragon.jpg",
+            "powers": ""
+        }, {
+            "id":5,
+            "name": "Nithe",
+            "type": "Dragon",
+            "image": "images/tigerDragon.jpg",
+            "powers": ""
+        }, {
+            "id":6,
+            "name": "Hyperion",
+            "type": "Dragon",
+            "image": "images/iceDragon.jpg",
+            "powers": ""
+        }, {
+            "id":7,
+            "name": "Pendragon",
+            "type": "Knight & Dragon",
+            "image": "images/mountedKnight.jpg",
+            "powers": ""
+        }, {
+            "id":8,
+            "name": "Jormungand",
+            "type": "Dragon",
+            "image": "images/blueheadDragon.jpg",
+            "powers": ""
+        },
+        {
+            "id":9,
+            "name": "Niamh",
+            "type": "Knight",
+            "image":"images/archer.jpg",
+            "skills": "Archer" 
+        },
+        {
+            "id":10,
+            "name": "Amaruq",
+            "type": "Knight",
+            "image":"images/fireKnight.jpg",
+            "skills": "" 
+        }, {
+            "id":11,
+            "name": "King Arthur",
+            "type": "Knight",
+            "image":"images/KingArthur.jpg",
+            "skills": "" 
+        }, {
+            "id":12,
+            "name": "Bakar",
+            "type": "Knight",
+            "image":"images/lonelyKnight.jpg",
+            "skills": "" 
+        }, {
+            "id":13,
+            "name": "Sir Gawain",
+            "type": "Knight",
+            "image":"images/SirGawain.jpg",
+            "skills": "" 
+        }, {
+            "id":14,
+            "name": "Uthred",
+            "type": "Knight",
+            "image":"images/Uthred.jpg",
+            "skills": "" 
+        }, {
+            "id":15,
+            "name": "Ragnar",
+            "type": "Knight",
+            "image":"images/Viking.jpg",
+            "skills": "" 
         }
     ]
 }

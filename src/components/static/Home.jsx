@@ -1,4 +1,5 @@
 import React from 'react'
+//import DragonScale from './images/DragonScale.png'
 
 const Home = () => {
   return (
