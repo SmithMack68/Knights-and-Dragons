@@ -4,14 +4,14 @@
         {
             "id":1,
             "name": "Drogon",
-            "type": "Dragon",
+            "type": " Dragon",
             "image": "./images/kd/firedragon.jpg",
             "powers": ""
         },
         {
             "id":2,
-            "name": "Brenna",
-            "type": "Knight & Dragon",
+            "name": "Brenna & Scorpius",
+            "type": "Sorceress & Dragon",
             "image": "./images/kd/ladyanddragon.jpg",
             "powers": ""
         }, {
@@ -35,12 +35,12 @@
         }, {
             "id":6,
             "name": "Hyperion",
-            "type": "Dragon",
+            "type": "Ice Dragon",
             "image": "./images/kd/icedragon.jpg",
             "powers": ""
         }, {
             "id":7,
-            "name": "Pendragon",
+            "name": "Pendragon & Beithir",
             "type": "Knight & Dragon",
             "image": "./images/kd/mountedknight.jpg",
             "powers": ""
@@ -57,14 +57,14 @@
         {
             "id":1,
             "name": "Niamh",
-            "type": "Knight",
+            "type": "Archer",
             "image":"./images/kd/archer.jpg",
             "skills": "Archer" 
         },
         {
             "id":2,
             "name": "Amaruq",
-            "type": "Knight",
+            "type": "Dark Knight",
             "image":"./images/kd/fireknight.jpg",
             "skills": "" 
         }, {
@@ -94,7 +94,7 @@
         }, {
             "id":7,
             "name": "Ragnar",
-            "type": "Knight",
+            "type": " Viking Warrior",
             "image":"./images/kd/viking.jpg",
             "skills": "" 
         }

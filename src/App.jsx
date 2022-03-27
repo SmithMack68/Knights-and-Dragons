@@ -1,11 +1,9 @@
 import React from 'react'
 import Navbar from './components/navigation/Navbar';
 import Home from './components/static/Home';
-import DragonCards from "./components/dragons/DragonCards"
 import DragonPage from "./components/dragons/DragonPage"
 import Login from './components/sessions/Login';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import KnightCards from './components/knights/KnightCards';
 import KnightsPage from './components/knights/KnightsPage';
 //import { baseUrl } from './Globals'
 //import DragonKnocker from './images/DragonKnocker.png'

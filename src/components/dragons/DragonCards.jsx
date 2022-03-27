@@ -5,10 +5,11 @@ const DragonCards = ({ dragon }) => {
 
   return (
     <div className='card' style={{textAlign: "center"}}>
-        <h2>{name}</h2>
-        <img src={image} alt={name} height={300} width={450} quality={.05}/>
-        <p>Type: {type} Powers: {powers}</p>
-      <button>Add to Army</button>
+        <h2 style={{fontFamily: "fantasy"}}>{name}</h2>
+        <img src={image} alt={name} height={300} width={400} quality={.05}/>
+        <p style={{fontFamily: "fantasy"}}>Class: {type} Powers: {powers}</p>
+      <button style={{fontFamily: "fantasy", backgroundColor: "darkgrey"}}>Add to Army</button>
+      <button style={{fontFamily: "fantasy", backgroundColor: "darkgrey"}}>Favorite 🔥 </button>
     </div>
   )
 }

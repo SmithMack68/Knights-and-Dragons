@@ -25,15 +25,15 @@ const Navbar = () => {
 
   return (
     <div className={classes.root}>
-      <AppBar position="static">
+      <AppBar  position="static">
           <Container>
             <Toolbar>
                 <Typography variant="h6" className={classes.title}>
-                 <Button color="inherit" style={{ fontSize: 20 }} component={ Link } to="/">Home</Button>
+                 <Button color="black" style={{fontFamily: "fantasy", fontSize: 25 }} component={ Link } to="/">Home</Button>
                 </Typography>
-                <Button color="inherit" component={ Link } to="/login">Login</Button>
-                <Button color="inherit" component={ Link } to="/dragonPage">Dragons</Button>
-                <Button color="inherit" component={ Link } to="/knightsPage">Knights</Button>
+                <Button style={{fontFamily: "fantasy", fontSize: 25}} color="black" component={ Link } to="/login">Login</Button>
+                <Button style={{fontFamily: "fantasy", fontSize: 25}} color="black" component={ Link } to="/dragonPage">Dragons</Button>
+                <Button style={{fontFamily: "fantasy", fontSize: 25}} color="black" component={ Link } to="/knightsPage">Knights</Button>
             </Toolbar>
         </Container>
       </AppBar>
