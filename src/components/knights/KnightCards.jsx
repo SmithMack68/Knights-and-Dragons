@@ -9,7 +9,7 @@ const KnightCards = ({ knight }) => {
           <img src={image} alt={name} height={250} width={400} quality={.05}/>
           <p style={{fontFamily: "fantasy", color: "darkgrey"}}>Class: {type} Powers: {powers}</p>
         <button style={{fontFamily: "fantasy", color: "darkgrey", backgroundColor: "rgb(59, 55, 55)"}}>Add to Army</button>
-        <button style={{fontFamily: "fantasy", color: "darkgray", backgroundColor: "rgb(59, 55, 55)"}}>Favorite</button>
+        <button style={{fontFamily: "fantasy", color: "darkgrey", backgroundColor: "rgb(59, 55, 55)"}}>Favorite</button>
       </div>
     )
   }
