@@ -23,7 +23,7 @@ code {
   border-radius: 2px;
   border:  4px solid rgb(27, 21, 21);
   width: 400px;
-  background-color: darkgrey;
+  background-color: rgb(59, 55, 55);
 }
 
 .card .image {
@@ -32,6 +32,10 @@ code {
   width: 200px;
   display: flex;
   justify-content: center;
+}
+
+body {
+  background: url('../src/images/DragonScale.png') center fixed;
 }
 
 /* .App {
