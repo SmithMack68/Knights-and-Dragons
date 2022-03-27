@@ -13,7 +13,7 @@ const App = () => {
   return (
     <Router>
       {/*<img  src={DragonKnocker} alt="Dragon Knocker" height={790} width={1400}/>*/}
-      {/*<Button color="inherit" style={{ fontSize: 20 }} component={ Link } to="/">Pets</Button>*/}
+      {/*<Button color="inherit" style={{ fontSize: 20 }} component={ Link } to="/">Home</Button>*/}
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />

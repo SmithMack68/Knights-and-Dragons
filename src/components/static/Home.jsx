@@ -4,7 +4,7 @@ import React from 'react'
 const Home = () => {
   return (
     <div>
-        <h1 style={{ textAlign: "center" }}>Welcome to Knights & Dragons</h1>
+        <h1 style={{ textAlign: "center", fontFamily: "fantasy"}}>Welcome to Knights & Dragons</h1>
     </div>
   )
 }
