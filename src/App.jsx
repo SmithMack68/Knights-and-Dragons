@@ -5,15 +5,18 @@ import DragonPage from "./components/dragons/DragonPage"
 import Login from './components/sessions/Login';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import KnightsPage from './components/knights/KnightsPage';
+//import { Link } from "react-router-dom"
 //import { baseUrl } from './Globals'
 //import DragonKnocker from './images/DragonKnocker.png'
 
 
 const App = () => {
   return (
+    <>
+   
     <Router>
       {/*<img  src={DragonKnocker} alt="Dragon Knocker" height={790} width={1400}/>*/}
-      {/*<Button color="inherit" style={{ fontSize: 20 }} component={ Link } to="/">Home</Button>*/}
+      {/* <Button color="inherit" style={{ fontSize: 20 }} component={ Link } to="/">Home</Button> */}
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -22,6 +25,9 @@ const App = () => {
         <Route path="/login" element={<Login/>} />
       </Routes>
     </Router>
+    {/* <button style={{fontSize: 60}}>Hello</button> */}
+    {/* <button position={{position: "center"}} style={{fontFamily: "fantasy", fontSize: 45}} color="black" component={ Link } to="/login">Login</button> */}
+    </>
   );
 }
 
