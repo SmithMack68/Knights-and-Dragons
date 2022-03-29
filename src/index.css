@@ -21,7 +21,7 @@ code {
 .card {
   margin: 1.5rem;
   border-radius: 2px;
-  border:  4px solid rgb(27, 21, 21);
+  border:  4px solid rgb(25, 21, 27);
   width: 400px;
   background-color: rgb(59, 55, 55);
 }
