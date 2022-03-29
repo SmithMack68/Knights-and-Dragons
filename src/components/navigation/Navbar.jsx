@@ -30,7 +30,7 @@ const Navbar = () => {
             <Toolbar>
                 <Typography variant="h6" className={classes.title}>
                 <Button style={{fontFamily: "fantasy", fontSize: 25}} color="black" component={ Link } to="/">Login</Button>
-                <Button color="black" style={{fontFamily: "fantasy", fontSize: 25 }} component={ Link } to="/home">Welcome</Button>
+                <Button style={{fontFamily: "fantasy", fontSize: 25 }} color="black" component={ Link } to="/home">Welcome</Button>
                 </Typography>
                 <Button style={{fontFamily: "fantasy", fontSize: 25}} color="black" component={ Link } to="/dragonPage">Dragons</Button>
                 <Button style={{fontFamily: "fantasy", fontSize: 25}} color="black" component={ Link } to="/knightsPage">Knights</Button>
