@@ -5,9 +5,16 @@ import DragonPage from "./components/dragons/DragonPage"
 import Login from './components/sessions/Login';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import KnightsPage from './components/knights/KnightsPage';
+//import { makeStyles } from '@material-ui/core/styles'
 //import { Link } from "react-router-dom"
 //import { baseUrl } from './Globals'
 //import DragonKnocker from './images/DragonKnocker.png'
+
+// const useStyles = makeStyles({
+//   App: {
+//     backgroundImage: './images/DragonKnocker.png'
+//   }
+// })
 
 
 const App = () => {
@@ -19,10 +26,10 @@ const App = () => {
       {/* <Button color="inherit" style={{ fontSize: 20 }} component={ Link } to="/">Home</Button> */}
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/home" element={<Home />} />
         <Route path="/dragonPage" element={<DragonPage />} />
         <Route path="/knightsPage" element={<KnightsPage/>} />
-        <Route path="/login" element={<Login/>} />
+        <Route path="/" element={<Login />} />
       </Routes>
     </Router>
     {/* <button style={{fontSize: 60}}>Hello</button> */}
