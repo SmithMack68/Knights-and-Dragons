@@ -27,7 +27,15 @@ const Login = () => {
         <form onSubmit={handleSubmit}>
           <div>
             <label htmlFor='username'>Choose your Warrior Name: </label>
-            <input style={{fontFamily: "fantasy", fontSize: 30, height: 45, width: 250}} type="text" name="username" required id="username" value={ username } placeholder="Name Required"  onChange={(e) => setUsername(e.target.value) }></input>
+            <input style={{fontFamily: "fantasy", fontSize: 30, height: 45, width: 250}} 
+              type="text" 
+              name="username" 
+              required 
+              id="username" 
+              value={ username } 
+              placeholder="Name Required"  
+              onChange={(e) => setUsername(e.target.value) }>
+            </input>
           </div>
           <br></br>
           <input style={{fontFamily: "fantasy", height: 45, width: 400, fontSize: 30, color: 'rgb(59, 71, 230)'}} type="submit" value="Enter the Order of Dragons"></input>

@@ -3,7 +3,6 @@ import DragonList from './DragonList'
 
 const DragonPage = () => {
     const [dragons, setDragons] = useState([])
-    //const [error, setError] = useState(null)
 
 
 useEffect(() => {
@@ -11,13 +10,6 @@ useEffect(() => {
     .then(resp => resp.json())
     .then(dragons => setDragons(dragons))
 }, [])
-
-// useEffect(() => {
-//   effect
-//  return() => {
-//     cleanup 
-//   }
-// }, [input])
 
   return (
     <div>

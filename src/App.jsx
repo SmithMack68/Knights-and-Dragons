@@ -6,9 +6,6 @@ import Login from './components/sessions/Login';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import KnightsPage from './components/knights/KnightsPage';
 //import { makeStyles } from '@material-ui/core/styles'
-//import { Link } from "react-router-dom"
-//import { baseUrl } from './Globals'
-//import DragonKnocker from './images/DragonKnocker.png'
 
 // const useStyles = makeStyles({
 //   App: {
