@@ -5,56 +5,56 @@
       "name": "Drogon",
       "type": " Dragon",
       "image": "./images/kd/firedragon.jpg",
-      "powers": ""
+      "powers": "Soul Fire"
     },
     {
       "id": 2,
       "name": "Pendragon & Beithir",
       "type": "Knight & Dragon",
       "image": "./images/kd/mountedknight.jpg",
-      "powers": ""
+      "powers": "Invisibilty & White Fire"
     },
     {
       "id": 3,
       "name": "Brenna & Scorpius",
       "type": "Sorceress & Dragon",
       "image": "./images/kd/ladyanddragon.jpg",
-      "powers": ""
+      "powers": "Necromancy & Undead Fire"
     },
     {
       "id": 4,
       "name": "Jormungand",
       "type": "Dragon",
       "image": "./images/kd/blueheaddragon.jpg",
-      "powers": ""
+      "powers": "Black Mist"
     },
     {
       "id": 5,
       "name": "Hyperion",
       "type": "Ice Dragon",
       "image": "./images/kd/icedragon.jpg",
-      "powers": ""
+      "powers": "Blue Fire"
     },
     {
       "id": 6,
       "name": "Kai",
       "type": "Dragon",
       "image": "./images/kd/babydragon.jpg",
-      "powers": ""
+      "powers": "Shape Shifter"
     },
     {
       "id": 7,
       "name": "Nithe",
       "type": "Dragon",
       "image": "./images/kd/tigerdragon.jpg",
-      "powers": ""
+      "powers": "Sonic Scream"
     },
     {
       "id": 8,
       "name": "Uruloki",
       "type": "Dragon",
       "image": "./images/kd/flyingbluedragon.jpg",
-      "powers": ""
+      "powers": "Storm Fire"
     }
   ],
   "knights": [
@@ -63,49 +63,49 @@
       "name": "Sir Gawain",
       "type": "Knight",
       "image": "./images/kd/sirgawain.jpg",
-      "skills": ""
+      "powers": "Healing Light"
     },
     {
       "id": 2,
       "name": "Amaruq",
       "type": "Dark Knight",
       "image": "./images/kd/fireknight.jpg",
-      "skills": ""
+      "powers": "Impervious to Fire"
     },
     {
       "id": 3,
       "name": "King Arthur",
       "type": "Knight",
       "image": "./images/kd/kingarthur.jpg",
-      "skills": ""
+      "powers": "Controls Nature"
     },
     {
       "id": 4,
       "name": "Niamh",
       "type": "Archer",
       "image": "./images/kd/archer.jpg",
-      "skills": "Archer"
+      "powers": "Wolf Form"
     },
     {
       "id": 5,
       "name": "Ragnar",
       "type": " Viking Warrior",
       "image": "./images/kd/viking.jpg",
-      "skills": ""
+      "powers": "Immortal"
     },
     {
       "id": 6,
       "name": "Uthred",
       "type": "Knight",
       "image": "./images/kd/uthred.jpg",
-      "skills": ""
+      "powers": "Vampire"
     },
     {
       "id": 7,
       "name": "Bakar",
       "type": "Knight",
       "image": "./images/kd/lonelyknight.jpg",
-      "skills": ""
+      "powers": "Shape Shifter"
     }
   ],
   "users": [
