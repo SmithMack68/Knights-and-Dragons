@@ -1,19 +1,11 @@
 import React, { useState } from 'react'
 import { baseUrl, headers } from '../../Globals'
 import { useNavigate } from 'react-router-dom'
-//import { useForm } from 'react-hook-form'
-//import Input from '@material-ui/core/Input'
 
 const Login = () => {
   const [username, setUsername] = useState('')
   const navigate = useNavigate()
-  // const { register, handleSubmit } = useForm()
-  // const onSubmit = data => console.log(data)
-  //   deafultValues: {
-  //     name: ''
-  //   }
-  // })
-  // const onSubmit = data => console.log(data)
+  
   const handleSubmit = (e) => {
     e.preventDefault()
     fetch(baseUrl + '/users', {
@@ -23,8 +15,8 @@ const Login = () => {
     })
       .then(resp => resp.json())
       .then(data => {
-        navigate('/home')
         setUsername(data)
+        navigate('/home')
       })
   }
 
