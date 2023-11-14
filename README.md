@@ -6,6 +6,9 @@ You can choose your Army from list of Knights and Dragons.
 Choose your favorites and add or remove them from your Army.
 
 ![Screen Shot 2023-11-13 at 7 55 16 PM](https://github.com/SmithMack68/dragon-army/assets/90874836/33df7f23-5ebe-45cc-8a19-97b3c1ed788f)
+![Dragons](https://github.com/SmithMack68/dragon-army/assets/90874836/139f365e-e22e-4062-ba11-e10764d9dd15)
+![Knights](https://github.com/SmithMack68/dragon-army/assets/90874836/0de6efa7-35c9-42e8-a85a-3841a4f92227)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 It also uses the latest version of React-Router-Dom version 6
