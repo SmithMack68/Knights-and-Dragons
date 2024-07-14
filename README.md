@@ -1,4 +1,4 @@
-# Welcome to the Dragon Army
+# Welcome to Knights & Dragons
 This is my first React project. It features a NavBar by Material UI version 4. 
 It takes the idea of a pet adoption site and a fanatasy game and
 combines the two. Just create your player name and enter the site.
