@@ -1,6 +1,6 @@
 # Welcome to Knights & Dragons
 This is my first React project. It features a NavBar by Material UI version 4. 
-It takes the idea of a pet adoption site and a fanatasy game and
+It takes the idea of a pet adoption site and a fantasy game and
 combines the two. Just create your player name and enter the site.
 You can choose your Army from list of Knights and Dragons.
 Choose your favorites and add or remove them from your Army.
