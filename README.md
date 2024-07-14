@@ -1,11 +1,11 @@
 # Welcome to Knights & Dragons
-This is my first React project. It features a NavBar by Material UI version 4. 
+![Screen Shot 2023-11-13 at 7 55 16 PM](https://github.com/SmithMack68/dragon-army/assets/90874836/33df7f23-5ebe-45cc-8a19-97b3c1ed788f)
+
+*This is my first React project. It features a NavBar by Material UI version 4. 
 It takes the idea of a pet adoption site and a fantasy game and
 combines the two. Just create your player name and enter the site.
 You can choose your Army from list of Knights and Dragons.
 Choose your favorites and add or remove them from your Army.
-
-![Screen Shot 2023-11-13 at 7 55 16 PM](https://github.com/SmithMack68/dragon-army/assets/90874836/33df7f23-5ebe-45cc-8a19-97b3c1ed788f)
 ![Dragons](https://github.com/SmithMack68/dragon-army/assets/90874836/139f365e-e22e-4062-ba11-e10764d9dd15)
 ![Knights](https://github.com/SmithMack68/dragon-army/assets/90874836/0de6efa7-35c9-42e8-a85a-3841a4f92227)
 
