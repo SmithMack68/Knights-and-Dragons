@@ -16,7 +16,8 @@ You can choose your Army from list of Knights and Dragons.
 -------
 ## Demo Video
 [![YouTube Video](https://img.youtube.com/vi/D1VwfUtsDrU/0.jpg)](https://www.youtube.com/watch?v=D1VwfUtsDrU)
-
+------
+Click the video link and it will redirect you to the YouTube demo. **Note it will take you away from GitHub**
 
 -------
 
