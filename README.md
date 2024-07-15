@@ -21,7 +21,7 @@ Click the video link and it will redirect you to the YouTube demo. **Note it wil
 
 -------
 ## Overview
-This is a single page React application. It uses links and React components to mimic a backend. You can Login, add or remove Knights and Dragons to your personal Army
+This is a single page React application. It uses links and React components to mimic a backend. It has a mock Login add or remove Knights and Dragons to your personal Army
 
 
 
