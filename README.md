@@ -2,11 +2,11 @@
 ![Screen Shot 2023-11-13 at 7 55 16 PM](https://github.com/SmithMack68/dragon-army/assets/90874836/33df7f23-5ebe-45cc-8a19-97b3c1ed788f)
 
 
-This is my first React project.  &nbsp;It features a NavBar by Material UI v4. 
+This is my first React project. It features a Navigation Bar by Material UI v4. 
 <br>  It takes the idea of a pet adoption site and a fantasy game and
 combines the two. <br>Just create your player name and enter the site.&nbsp;
 You can choose your Army from list of Knights and Dragons.
- &nbsp;Choose your favorites,&nbsp;add or remove them from your Army.
+ &nbsp;Save your favorites,&nbsp;add or remove them from your Army.
 --------
 --------
 ![Knights 2](https://github.com/user-attachments/assets/e88d1a9f-32ba-4c16-8fe1-c6d575ffce58)
@@ -17,10 +17,11 @@ You can choose your Army from list of Knights and Dragons.
 ## Demo Video
 [![YouTube Video](https://img.youtube.com/vi/D1VwfUtsDrU/0.jpg)](https://www.youtube.com/watch?v=D1VwfUtsDrU)
 ------
-Click the video link and it will redirect you to the YouTube demo. **Note it will take you away from GitHub**
+Click the video link and it will redirect you to the YouTube demo. **Note it will take you away from GitHub
 
 -------
-
+## Overview
+This is a single page React application. It uses links and React components to mimic a backend. You can Login, add or remove Knights and Dragons to your personal Army
 
 
 
