@@ -2,11 +2,11 @@
 ![Screen Shot 2023-11-13 at 7 55 16 PM](https://github.com/SmithMack68/dragon-army/assets/90874836/33df7f23-5ebe-45cc-8a19-97b3c1ed788f)
 
 
-This is my first React project. It features a Navigation Bar by Material UI v4. 
-<br>  It takes the idea of a pet adoption site and a fantasy game and
-combines the two. <br>Just create your player name and enter the site.&nbsp;
+This is my first React project. It features a Material UI Navigation Bar.
+It takes the idea of a pet adoption site and a fantasy game and
+combines the two. Just create your player name and enter the site.
 You can choose your Army from list of Knights and Dragons.
- &nbsp;Save your favorites,&nbsp;add or remove them from your Army.
+Save your favorites, add or remove them from your army.
 --------
 --------
 ![Knights 2](https://github.com/user-attachments/assets/e88d1a9f-32ba-4c16-8fe1-c6d575ffce58)
@@ -22,7 +22,7 @@ Click the video link and it will redirect you to the YouTube demo. **Note it wil
 -------
 ## Overview
 This is a single-page React application simulates a working backend using links and various React components. It includes a mock login function implemented with the fetch() method. The project makes use of React hooks, specifically useState() and useEffect(), to manage state and side effects effectively. Users can add or remove knights and dragons from their personal army, providing a dynamic and interactive experience. One of my favorite features is the ability to like knights and dragons. Liking a knight adds a sword icon, while liking a dragon adds fire icon, adding a whimsical visual element to the application.
-
+------
 ------
 
 
