@@ -21,7 +21,7 @@ Click the video link and it will redirect you to the YouTube demo. **Note it wil
 
 -------
 ## Overview
-This is a single page React application. It uses links and React components to mimic a backend. It has a mock Login add or remove Knights and Dragons to your personal Army
+This is a single-page React application simulates a working backend using links and various React components. It includes a mock login function implemented with the fetch() method. The project leverages React hooks, specifically useState() and useEffect(), to manage state and side effects effectively. Users can add or remove knights and dragons from their personal army, providing a dynamic and interactive experience. One of my favorite features is the ability to like knights and dragons. Liking a knight adds a sword icon, while liking a dragon adds fire icon, adding a whimsical visual element to the application.
 
 
 
