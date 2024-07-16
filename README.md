@@ -29,7 +29,7 @@ This single-page React application simulates a working backend using links and v
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-It also uses the latest version of React-Router-Dom version 6
+It also uses the latest version of React-Router-Dom v6
 
 ## Requirements
 * uses node version 16.13.2
